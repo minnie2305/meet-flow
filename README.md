@@ -50,3 +50,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ---
 
 This project uses [Next.js](https://nextjs.org) and was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## CEO Feature Update
+
+Added a simple meeting reminder feature idea on branch `feat/my-meeting-reminder`.
+
+- Users can set a reminder before a scheduled meeting.
+- This helps participants join meetings on time.
